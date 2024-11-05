@@ -1,1 +1,1 @@
-# BigQuant_Research_Frameworks
+# BigQuant Research Frameworks
